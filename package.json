@@ -1,0 +1,15 @@
+{
+  "name": "seb-random-messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sebastian <sebastt.93@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg-try": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
